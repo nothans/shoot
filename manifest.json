@@ -1,0 +1,22 @@
+{
+    "name": "Shoot - Modern Retro Shoot'em Up",
+    "short_name": "Shoot",
+    "description": "A modern retro shoot'em up game that combines classic gameplay with modern graphics and sound.",
+    "icons": [
+      {
+        "src": "images/shoot-icon-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "images/shoot-icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "orientation": "portrait"
+  }
