@@ -17,6 +17,9 @@
 ## Installation
 No installation necessary! Simply open the `index.html` file in a modern web browser to start playing.
 
+## Demo
+You can play the game right now by going to [NotHans.com/shoot](https://nothans.com/shoot).
+
 ## Controls
 - **Mouse Movement:** Move your ship by moving the mouse.
 - **Touch Movement:** Use touch controls on mobile devices.
