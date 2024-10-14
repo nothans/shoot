@@ -1,7 +1,7 @@
 {
     "name": "Shoot - Modern Retro Shoot'em Up",
     "short_name": "Shoot",
-    "description": "A modern retro shoot'em up game that combines classic gameplay with modern graphics and sound.",
+    "description": "A modern retro shoot'em up game that combines classic game play with modern graphics and sound.",
     "icons": [
       {
         "src": "images/shoot-icon-32.png",
@@ -14,7 +14,7 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/index.html",
+    "start_url": "https://shoot.nothans.com/",
     "display": "fullscreen",
     "theme_color": "#000000",
     "background_color": "#000000",

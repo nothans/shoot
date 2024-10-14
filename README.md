@@ -4,7 +4,7 @@
 "Shoot" is a modern retro shoot'em up game that combines the thrill of classic arcade shooters with contemporary graphics and sound effects. The game features multiple modes including Arcade, Kid, and Raw modes, each offering unique challenges and gameplay styles. The goal is to last 10 levels and set a high score.
 
 ## Features
-- **Multiple Game Modes:** Choose from Arcade, Kid, or Raw mode to suit your gameplay preference.
+- **Multiple Game Modes:** Choose from Arcade, Kid, or Raw mode to suit your game play preference.
 - **Dynamic Levels:** Experience increasing difficulty with advanced enemy configurations and behaviors across different levels.
 - **Power-Ups:** Enhance your ship with power-ups like rapid fire, shields, and multi-shot to survive longer and beat high scores.
 - **Custom Graphics and Sound:** Enjoy a visually appealing game with custom graphics and thrilling sound effects.
@@ -18,7 +18,7 @@
 No installation necessary! Simply open the `index.html` file in a modern web browser to start playing.
 
 ## Demo
-You can play the game right now by going to [NotHans.com/shoot](https://nothans.com/shoot).
+You can play the game right now by going to [shoot.NotHans.com/](https://shoot.nothans.com/).
 
 ## Controls
 - **Mouse Movement:** Move your ship by moving the mouse.

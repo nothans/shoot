@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shoot | A modern retro shoot'em up game</title>
-    <meta name="description" content="Shoot is a modern retro shoot'em up game that combines classic gameplay with modern graphics and sound.">
+    <meta name="description" content="Shoot is a modern retro shoot'em up game that combines classic game play with modern graphics and sound.">
     <meta name="keywords" content="shoot, shoot'em up, retro, modern, game, arcade, action, fun, challenging">
     <link rel="icon" href="images/shoot-icon-32.png" type="image/x-icon">
     <link rel="manifest" href="manifest.json">
@@ -116,6 +116,10 @@
             font-size: 14px;
             color: #088;
         }
+        #startScreen .copyright a {
+            color: #0ff;
+            text-decoration: none;
+        }
         #startScreen .mode-buttons {
             display: flex;
             flex-direction: column;
@@ -173,7 +177,7 @@
             Music and Sound Effects by Pixabay<br>
             Concept by George Scharler
         </p>
-        <p class="copyright">&copy; LightFunGames.com 2024</p>
+        <p class="copyright">&copy; <a href="https://shoot.nothans.com/">NotHans.com</a> 2024</p>
     </div>
     <script>
 
@@ -1038,7 +1042,7 @@
                 playSound('gameOver');
             }
             
-            stopBackgroundMusic();            
+            stopBackgroundMusic();
             player.shield = false;            
 
             gameOverScreen.style.display = 'block';
